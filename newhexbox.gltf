@@ -1,0 +1,583 @@
+{
+    "asset": {
+        "copyright": "2024 (c) Adobe Inc.",
+        "generator": "Adobe Substance 3D Stager - 2b7de00a31d7c254384951b3947843d0e76cdcb1",
+        "version": "2.0",
+        "extensions": {
+            "KHR_xmp_json_ld": {
+                "packet": 0
+            }
+        }
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 13407,
+            "type": "VEC3",
+            "max": [
+                0.0010579100344330073,
+                0.0011295300209894777,
+                0.0005008199950680137
+            ],
+            "min": [
+                -0.0012904700124636293,
+                0.000004189999799564248,
+                -0.0004619200190063566
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 13407,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 13407,
+            "type": "VEC4"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5126,
+            "count": 13407,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5125,
+            "count": 74010,
+            "type": "SCALAR",
+            "max": [
+                13406.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 160884,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 160884,
+            "byteLength": 160884,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 321768,
+            "byteLength": 214512,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 536280,
+            "byteLength": 107256,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 643536,
+            "byteLength": 296040,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 939576,
+            "uri": "newhexbox_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.00005273960778140463,
+                "yfov": 0.6445596218109131,
+                "zfar": 2.9006786346435549,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        },
+        {
+            "perspective": {
+                "znear": 0.00005273960778140463,
+                "yfov": 0.6445596218109131,
+                "zfar": 2.9006786346435549,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera3"
+        },
+        {
+            "perspective": {
+                "znear": 0.00005273960778140463,
+                "yfov": 0.6445596218109131,
+                "zfar": 2.9006786346435549,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera4"
+        },
+        {
+            "perspective": {
+                "znear": 0.00005273960778140463,
+                "yfov": 0.6445596218109131,
+                "zfar": 2.9006786346435549,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera5"
+        },
+        {
+            "perspective": {
+                "znear": 0.00005273960778140463,
+                "yfov": 0.6445596218109131,
+                "zfar": 2.9006786346435549,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera6"
+        },
+        {
+            "perspective": {
+                "znear": 0.00005273960778140463,
+                "yfov": 0.6445596218109131,
+                "zfar": 2.9006786346435549,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera7"
+        },
+        {
+            "perspective": {
+                "znear": 0.00005273960778140463,
+                "yfov": 0.6445596218109131,
+                "zfar": 2.9006786346435549,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera8"
+        },
+        {
+            "perspective": {
+                "znear": 0.00005273960778140463,
+                "yfov": 0.6445596218109131,
+                "zfar": 2.9006786346435549,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera9"
+        },
+        {
+            "perspective": {
+                "znear": 0.00005273960778140463,
+                "yfov": 0.6445596218109131,
+                "zfar": 2.9006786346435549,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera10"
+        },
+        {
+            "perspective": {
+                "znear": 0.00005273960778140463,
+                "yfov": 0.3995896875858307,
+                "zfar": 2.9006786346435549,
+                "aspectRatio": 1.7777777910232545
+            },
+            "type": "perspective",
+            "name": "render_camera11"
+        },
+        {
+            "perspective": {
+                "znear": 0.00005273960778140463,
+                "yfov": 0.6445596218109131,
+                "zfar": 2.9006786346435549,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera12"
+        }
+    ],
+    "images": [
+        {
+            "name": "sh_adidasLeopardShoe_albedo",
+            "uri": "newhexbox_images/sh_adidasLeopardShoe_albedo.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "image",
+            "uri": "newhexbox_images/image.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "name": "sh_adidasLeopardShoe",
+            "doubleSided": true,
+            "extensions": {
+                "KHR_materials_ior": {
+                    "ior": 1.600000023841858
+                }
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "sh_adidasLeopardShoe",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 3,
+                        "TANGENT": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 4,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "sh_adidasLeopardShoe",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TANGENT": 2,
+                        "TEXCOORD_0": 3
+                    },
+                    "indices": 4,
+                    "material": 0
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "working_cam_n3d"
+        },
+        {
+            "translation": [
+                -2.639350414276123,
+                0.044318389147520068,
+                -0.4119304120540619
+            ],
+            "rotation": [
+                0.48409488797187807,
+                0.5179771780967712,
+                0.5235664248466492,
+                -0.47247225046157839
+            ],
+            "scale": [
+                99.88318634033203,
+                80.08296203613281,
+                99.51180267333985
+            ],
+            "mesh": 0,
+            "name": "sh_adidasLeopardShoe"
+        },
+        {
+            "translation": [
+                -2.485064744949341,
+                0.04747588932514191,
+                -0.43515506386756899
+            ],
+            "rotation": [
+                -0.5098186731338501,
+                0.43652522563934328,
+                0.5168185234069824,
+                0.5314407348632813
+            ],
+            "scale": [
+                99.8832015991211,
+                80.08299255371094,
+                99.51184844970703
+            ],
+            "mesh": 1,
+            "name": "sh_adidasLeopardShoe"
+        },
+        {
+            "translation": [
+                -1.9551680088043213,
+                0.09887512028217316,
+                -0.4199063777923584
+            ],
+            "rotation": [
+                -0.02019130438566208,
+                0.6893396973609924,
+                0.019227230921387674,
+                0.7239015102386475
+            ],
+            "scale": [
+                0.9999999403953552,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "translation": [
+                -1.233808994293213,
+                0.7915003895759583,
+                -0.2369852066040039
+            ],
+            "rotation": [
+                -0.25853705406188967,
+                0.7330343127250671,
+                0.37534746527671816,
+                0.5049094557762146
+            ],
+            "scale": [
+                1.0000001192092896,
+                1.0000001192092896,
+                1.0000001192092896
+            ],
+            "camera": 1,
+            "name": "View 1"
+        },
+        {
+            "translation": [
+                -2.076627016067505,
+                0.4106791913509369,
+                -0.4234299063682556
+            ],
+            "rotation": [
+                -0.23283308744430543,
+                0.6582408547401428,
+                0.22557173669338227,
+                0.6794300079345703
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 2,
+            "name": "front view"
+        },
+        {
+            "translation": [
+                -2.534334897994995,
+                0.2955673038959503,
+                -0.9678338170051575
+            ],
+            "rotation": [
+                -0.00043826131150126457,
+                0.9771049618721008,
+                0.21274790167808534,
+                0.0020130444318056108
+            ],
+            "scale": [
+                0.9999997615814209,
+                1.0,
+                0.9999997615814209
+            ],
+            "camera": 3,
+            "name": "reeboklogoview"
+        },
+        {
+            "translation": [
+                -2.3039817810058595,
+                0.41816508769989016,
+                0.42027726769447329
+            ],
+            "rotation": [
+                -0.11456125974655152,
+                0.13218121230602265,
+                0.015381279401481152,
+                0.9844629168510437
+            ],
+            "camera": 4,
+            "name": "sizeview"
+        },
+        {
+            "translation": [
+                -2.889697790145874,
+                0.5093317031860352,
+                -0.4230736196041107
+            ],
+            "rotation": [
+                -0.3241516351699829,
+                -0.6161424517631531,
+                -0.30802878737449648,
+                0.6483922004699707
+            ],
+            "scale": [
+                1.0000001192092896,
+                1.0,
+                1.0000001192092896
+            ],
+            "camera": 5,
+            "name": "everythingview"
+        },
+        {
+            "translation": [
+                -2.356675863265991,
+                0.4370276927947998,
+                -0.43637827038764956
+            ],
+            "rotation": [
+                -0.32403987646102908,
+                0.6330165266990662,
+                0.3305842876434326,
+                0.6204854846000671
+            ],
+            "scale": [
+                1.0000001192092896,
+                1.0000001192092896,
+                1.0000001192092896
+            ],
+            "camera": 6,
+            "name": "insidereeboklogo"
+        },
+        {
+            "translation": [
+                -2.711116075515747,
+                0.10379389673471451,
+                0.11007189750671387
+            ],
+            "rotation": [
+                -0.0005517060053534806,
+                -0.13939352333545686,
+                -0.00007751198427285999,
+                0.9902368783950806
+            ],
+            "scale": [
+                0.9999998807907105,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 7,
+            "name": "styleview"
+        },
+        {
+            "translation": [
+                -2.562152147293091,
+                0.46188288927078249,
+                -0.41576147079467776
+            ],
+            "rotation": [
+                -0.05745292827486992,
+                -0.6866823434829712,
+                -0.054595086723566058,
+                0.7226243019104004
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0000001192092896
+            ],
+            "camera": 8,
+            "name": "cardview"
+        },
+        {
+            "translation": [
+                -3.2976839542388918,
+                0.22660890221595765,
+                -0.3126779794692993
+            ],
+            "rotation": [
+                -0.055988334119319919,
+                -0.6497894525527954,
+                -0.04808932915329933,
+                0.7565225958824158
+            ],
+            "scale": [
+                0.9999999403953552,
+                1.0000001192092896,
+                1.0
+            ],
+            "camera": 9,
+            "name": "render_camera_n3d11"
+        },
+        {
+            "translation": [
+                -2.4557881355285646,
+                0.6939054131507874,
+                0.4665811061859131
+            ],
+            "rotation": [
+                -0.3022381067276001,
+                0.03523033484816551,
+                0.011178195476531983,
+                0.9525156021118164
+            ],
+            "camera": 10,
+            "name": "render_camera_n3d12"
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "sh_adidasLeopardShoe::baseColor::image",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "image",
+            "sampler": 0,
+            "source": 1
+        }
+    ],
+    "scene": 0,
+    "extensions": {
+        "KHR_xmp_json_ld": {
+            "packets": [
+                {
+                    "@context": {
+                        "dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "dc:date": "2025-10-16T18:50:15.183Z",
+                    "dc:title": "newhexbox.dn",
+                    "xmp:CreatorTool": "Adobe Substance 3D Stager"
+                }
+            ]
+        }
+    },
+    "extensionsUsed": [
+        "KHR_xmp_json_ld",
+        "KHR_materials_ior"
+    ]
+}
