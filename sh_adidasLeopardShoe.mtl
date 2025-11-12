@@ -1,0 +1,13 @@
+newmtl sh_adidasLeopardShoe
+illum 4
+Ka 0.00 0.00 0.00
+Kd 0.50 0.50 0.50
+Ks 0.50 0.50 0.50
+Ni 1.00
+Tf 1.00 1.00 1.00
+
+map_Kd sh_adidasLeopardShoe_albedo.jpg
+map_Bump sh_adidasLeopardShoe_nrm.jpg
+map_Ns sh_adidasLeopardShoe_specular.jpg
+map_Pr sh_adidasLeopardShoe_rough.jpg
+map_ao sh_adidasLeopardShoe_ao.jpg
